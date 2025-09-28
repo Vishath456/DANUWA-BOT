@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/Danuwa%20-%20MD.png?raw=true" alt="DANUWA-MD Logo" style="border-radius: 50px; box-shadow: 0 0 20px #00ffe5, 0 0 30px #00ffe5, 0 0 40px #00ffe5;">
+  <img src="https://github.com/Lakshan-MD/Lakshan-MD/blob/main/images/Lakshan%20-%20MD.png?raw=true" alt="Lakshan-MD Logo" style="border-radius: 50px; box-shadow: 0 0 20px #00ffe5, 0 0 30px #00ffe5, 0 0 40px #00ffe5;">
 </p> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hello+How+are+you%3F;Welcome+to+DANUWA-MD+WhatsApp+Bot;I'm+Danuka+Disanayaka" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hello+How+are+you%3F;Welcome+to+Lakshan-MD+WhatsApp+Bot;I'm+Danuka+Disanayaka" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,29 +17,29 @@
 
 
 <p align="center">
-  <a href="https://github.com/your-username/DANUWA-MD">
-    <img src="https://img.shields.io/github/repo-size/DANUWA-MD/DANUWA-MD?color=green&label=Repo%20Size&style=flat-square" />
+  <a href="https://github.com/your-username/Lakshan-MD">
+    <img src="https://img.shields.io/github/repo-size/Lakshan-MD/Lakshan-MD?color=green&label=Repo%20Size&style=flat-square" />
   </a>
-  <a href="https://github.com/your-username/DANUWA-MD">
-    <img src="https://img.shields.io/github/license/DANUWA-MD/DANUWA-MD?color=blue&style=flat-square" />
+  <a href="https://github.com/your-username/Lakshan-MD">
+    <img src="https://img.shields.io/github/license/Lakshan-MD/Lakshan-MD?color=blue&style=flat-square" />
   </a>
-  <a href="https://github.com/your-username/DANUWA-MD/fork">
-    <img src="https://img.shields.io/github/forks/DANUWA-MD/DANUWA-MD?style=flat-square" />
+  <a href="https://github.com/your-username/Lakshan-MD/fork">
+    <img src="https://img.shields.io/github/forks/Lakshan-MD/Lakshan-MD?style=flat-square" />
   </a>
-  <a href="https://github.com/your-username/DANUWA-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/DANUWA-MD/DANUWA-MD?style=flat-square" />
+  <a href="https://github.com/your-username/Lakshan-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/Lakshan-MD/Lakshan-MD?style=flat-square" />
   </a>
 </p>
 
 ---
 
-## 📍 What is DANUWA-MD?
+## 📍 What is Lakshan-MD?
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Multi-device+WhatsApp+bot;Modular+plugin+architecture;Media+and+group+management+tools" alt="Typing SVG" />
 </p>
 
-**DANUWA-MD** is a multi-device WhatsApp bot written in Node.js using the [Baileys](https://github.com/adiwajshing/Baileys) library. It supports QR/Pairing code login, a plugin-based command system, and various media tools such as sticker conversion, song and video downloads, and group management commands.
+**Lakshan-MD** is a multi-device WhatsApp bot written in Node.js using the [Baileys](https://github.com/adiwajshing/Baileys) library. It supports QR/Pairing code login, a plugin-based command system, and various media tools such as sticker conversion, song and video downloads, and group management commands.
 
 ---
 
@@ -66,12 +66,12 @@
 ### 🚀 Installation
 
 1. **Fork the Repository**  
-   [DANUWA-MD GitHub Repo](https://github.com/DANUWA-MD/DANUWA-BOT)
+   [Lakshan-MD GitHub Repo](https://github.com/Lakshan-MD/Lakshan-BOT)
 
 2. **Generate Session ID**  
-    [Generate Session ID - 1](https://danuwa-official.vercel.app/)</br></br>
+    [Generate Session ID - 1](https://Lakshan-official.vercel.app/)</br></br>
              OR </br></br>
-   [Generate Session ID - 2](https://replit.com/@quizontalbot/DANUWA-MD-SESSION-ID?v=1#index.js)
+   [Generate Session ID - 2](https://replit.com/@quizontalbot/Lakshan-MD-SESSION-ID?v=1#index.js)
 
 4. **Configure Session and Owner Info**  
  - Edit `config.js` with your session ID and owner number (international format)
@@ -89,17 +89,17 @@
 
 <div align="center">
 
-  <a href="https://github.com/codespaces/new?hide_repo_select=true&repo=danuwa-bot/DANUWA-MD">
+  <a href="https://github.com/codespaces/new?hide_repo_select=true&repo=Lakshan-bot/Lakshan-MD">
     <img src="https://img.shields.io/badge/🚀%20DEPLOY%20IN-GITHUB%20CODESPACES-blue?logo=github&style=for-the-badge" height="50" width="250" alt="GitHub Codespaces"/>
   </a>
   <br><br>
 
-  <a href="https://replit.com/github/danuwa-bot/DANUWA-MD">
+  <a href="https://replit.com/github/Lakshan-bot/Lakshan-MD">
     <img src="https://img.shields.io/badge/⚡%20DEPLOY%20IN-REPLIT-4631D4?logo=replit&logoColor=white&style=for-the-badge" height="50" width="250" alt="Replit"/>
   </a>
   <br><br>
 
-  <a href="https://github.com/danuwa-bot/DANUWA-MD/actions">
+  <a href="https://github.com/Lakshan-bot/Lakshan-MD/actions">
     <img src="https://img.shields.io/badge/🚀%20DEPLOY%20IN-GITHUB%20ACTIONS-2088FF?logo=githubactions&style=for-the-badge" height="50" width="250" alt="GitHub Actions"/>
   </a>
   <br><br>
@@ -112,7 +112,7 @@
 
 ---
 
-## 🧑‍💻 How to Deploy DANUWA-MD on GitHub Codespaces
+## 🧑‍💻 How to Deploy Lakshan-MD on GitHub Codespaces
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Step-by-step+deployment+guide;Install+dependencies+and+start+bot" alt="Typing SVG" />
@@ -120,7 +120,7 @@
 
 1. Click the **"Launch in GitHub Codespaces"** button above.
 2. Sign in with your GitHub account if needed.
-3. Choose your forked repository (`DANUWA-MD`) to open in a new Codespace.
+3. Choose your forked repository (`Lakshan-MD`) to open in a new Codespace.
 4. Wait for GitHub to set up your development environment.
 5. In the terminal, install dependencies using:
 
@@ -135,7 +135,7 @@
    ```
 
 
-## ⚡ How to Deploy DANUWA-MD on Replit
+## ⚡ How to Deploy Lakshan-MD on Replit
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Step-by-step+deployment+guide;Install+dependencies+and+start+bot" alt="Typing SVG" />
@@ -144,7 +144,7 @@
 1. Click the **"Run on Replit"** button above to begin deployment.  
 2. Log in to [Replit](https://replit.com) using your **GitHub account** if prompted.  
 3. On your Replit dashboard, click the **➕ “Create Repl”** button in the left sidebar.  
-4. Select **“Import from GitHub”** and paste the link to your **forked `DANUWA-MD` repository**.  
+4. Select **“Import from GitHub”** and paste the link to your **forked `Lakshan-MD` repository**.  
 5. Replit will automatically import and set up your project.  
 6. Once ready, click the **“Run”** button at the top — the bot will start and show logs in the console.
 
@@ -153,7 +153,7 @@ Make sure your repository includes all required files (`index.js`, `plugins`, `a
 
 ---
 
-## 🚀 How to Deploy DANUWA-MD on GitHub (via Actions)
+## 🚀 How to Deploy Lakshan-MD on GitHub (via Actions)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Deploy+via+workflow+YAML;Push+and+run+automatically" alt="Typing SVG" />
@@ -212,13 +212,13 @@ jobs:
 
 ---
 
-## 🚄 How to Deploy DANUWA-MD on Railway
+## 🚄 How to Deploy Lakshan-MD on Railway
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Deploy+via+Railway;Easy+one+tap+deployment" alt="Typing SVG" />
 </p>
 
-You can easily deploy your own instance of DANUWA-MD on Railway with just one click.
+You can easily deploy your own instance of Lakshan-MD on Railway with just one click.
 
 1. Click the "Deploy on Railway" button.
 
@@ -238,7 +238,7 @@ Click "Deploy" — Railway will handle the rest!
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Fast%2C+lightweight%2C+and+modular;Smart+commands+and+media+support;Built+with+Baileys" alt="Typing SVG" />
 </p>
 
-DANUWA-MD is designed with scalability, flexibility, and functionality in mind. Here’s what it offers:
+Lakshan-MD is designed with scalability, flexibility, and functionality in mind. Here’s what it offers:
 
 | Category          | Description |
 |------------------|-------------|
@@ -263,7 +263,7 @@ DANUWA-MD is designed with scalability, flexibility, and functionality in mind. 
 
 ## 🛠️ Coming Soon
 
-We’re constantly improving DANUWA-MD to bring more power to your fingertips. Here’s what’s on the roadmap:
+We’re constantly improving Lakshan-MD to bring more power to your fingertips. Here’s what’s on the roadmap:
 
 | Feature               | Description |
 |------------------------|-------------|
@@ -284,11 +284,11 @@ We’re constantly improving DANUWA-MD to bring more power to your fingertips. H
 ## 👨‍💻 Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Danuka+Dissanayaka;Full+Stack+Developer;Creator+Of+DANUWA-MD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Danuka+Dissanayaka;Full+Stack+Developer;Creator+Of+Lakshan-MD" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images%20/Danuka%20Dissanayake.jpg?raw=true" width="540" style="border-radius: 50px;" alt="Danuka Disanayaka"/>
+  <img src="https://github.com/Lakshan-MD/Lakshan-MD/blob/main/images%20/Danuka%20Dissanayake.jpg?raw=true" width="540" style="border-radius: 50px;" alt="Danuka Disanayaka"/>
 </p>
 
 <h1 align="center" style="color:#10B981; font-weight:bold;">
@@ -300,7 +300,7 @@ Danuka Disanayaka is a passionate full-stack developer and automation enthusiast
 </p>
 
 <p align="center">
-  <a href="https://github.com/DANUWA_MD">GitHub</a> • 
+  <a href="https://github.com/Lakshan_MD">GitHub</a> • 
   <a href="https://www.youtube.com/@quizontal">YouTube</a> •
   <a href="https://Wa.me/+94776121326">WhatsApp</a> •
   <a href="https://www.facebook.com/share/1AM4qa8S4e/">Facebook</a>
